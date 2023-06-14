@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HEwQCjPLUfxn80IESIevq5Lp4JKKTh40A0GqaTaEdc//k9JczjvViIPB66iRGGvvV9x2ZTsJVKjLPUQHukODiw==",
+  "dgSpecHash": "rcOjjqiTmONNNJP0MSNiB4hyIlzzfHVYJTq9W6+dSIcvBlpF4iDBP8GzplmXHEHI4nq2+aA5dkKBeh7D/nlNfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\android\\source\\repos\\ProjetoCoco__\\ProjetoCoco__\\ProjetoCoco__.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\nanny\\OneDrive\\Documentos\\Projeto\\ProjetoCoco__\\ProjetoCoco__.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nanny\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\nanny\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\nanny\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\nanny\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
