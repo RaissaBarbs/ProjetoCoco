@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\nanny\OneDrive\Documentos\Projeto\ProjetoCoco__
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/nanny/OneDrive/Documentos/Projeto/ProjetoCoco__/Views/Home/Artesanato.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBcnRlc2FuYXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/nanny/OneDrive/Documentos/Projeto/ProjetoCoco__/Views/Home/Comida.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21pZGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -34,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/nanny/OneDrive/Documentos/Projeto/ProjetoCoco__/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nanny/OneDrive/Documentos/Projeto/ProjetoCoco__/Views/Home/Saude.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYXVkZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/nanny/OneDrive/Documentos/Projeto/ProjetoCoco__/Views/Shared/Error.cshtml]

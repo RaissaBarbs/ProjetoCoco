@@ -29,7 +29,13 @@ namespace ProjetoCoco__.Controllers
         {
             return View();
         }
-        public IActionResult Privacy()
+
+        public IActionResult Saude()
+        {
+            return View();
+        }
+
+        public IActionResult Artesanato()
         {
             return View();
         }

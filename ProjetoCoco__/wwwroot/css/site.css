@@ -1,18 +1,22 @@
-html {
-  font-size: 14px;
+.si {
+    width: 100%;
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+.imagem {
+    height: 450px;
+    width: 850px;
 }
 
-html {
-  position: relative;
-  min-height: 100%;
+.vapo {
+    width: 80%;
 }
 
-body {
-  margin-bottom: 60px;
+@media (max-width: 600px) {
+    .imagem {
+        height: 200px;
+    }
+
+    .vapo{
+        width:90%;
+    }
 }
