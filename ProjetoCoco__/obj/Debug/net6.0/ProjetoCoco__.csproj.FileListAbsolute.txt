@@ -55,3 +55,34 @@ C:\Users\nanny\OneDrive\Documentos\Projeto\ProjetoCoco__\obj\Debug\net6.0\refint
 C:\Users\nanny\OneDrive\Documentos\Projeto\ProjetoCoco__\obj\Debug\net6.0\ProjetoCoco__.pdb
 C:\Users\nanny\OneDrive\Documentos\Projeto\ProjetoCoco__\obj\Debug\net6.0\ProjetoCoco__.genruntimeconfig.cache
 C:\Users\nanny\OneDrive\Documentos\Projeto\ProjetoCoco__\obj\Debug\net6.0\ref\ProjetoCoco__.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\bin\Debug\net6.0\appsettings.json
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\bin\Debug\net6.0\ProjetoCoco__.staticwebassets.runtime.json
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\bin\Debug\net6.0\ProjetoCoco__.exe
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\bin\Debug\net6.0\ProjetoCoco__.deps.json
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\bin\Debug\net6.0\ProjetoCoco__.runtimeconfig.json
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\bin\Debug\net6.0\ProjetoCoco__.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\bin\Debug\net6.0\ProjetoCoco__.pdb
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\ProjetoCoco__.csproj.AssemblyReference.cache
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\ProjetoCoco__.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\ProjetoCoco__.AssemblyInfoInputs.cache
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\ProjetoCoco__.AssemblyInfo.cs
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\ProjetoCoco__.csproj.CoreCompileInputs.cache
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\ProjetoCoco__.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\ProjetoCoco__.RazorAssemblyInfo.cache
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\ProjetoCoco__.RazorAssemblyInfo.cs
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\staticwebassets\msbuild.ProjetoCoco__.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjetoCoco__.props
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoCoco__.props
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjetoCoco__.props
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\scopedcss\bundle\ProjetoCoco__.styles.css
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\scopedcss\projectbundle\ProjetoCoco__.bundle.scp.css
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\ProjetoCoco__.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\refint\ProjetoCoco__.dll
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\ProjetoCoco__.pdb
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\ProjetoCoco__.genruntimeconfig.cache
+C:\Users\souae\OneDrive\Documentos\Raissa Git hub\ProjetoCoco\ProjetoCoco__\obj\Debug\net6.0\ref\ProjetoCoco__.dll

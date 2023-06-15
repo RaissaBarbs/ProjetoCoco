@@ -13,68 +13,99 @@
 </head>
 <body style="background-color: #b1d795;">
     <!-- Demo header-->
- 
+
         <section class="py-3 header text-center">
             <div class="container py-4">
                 <header>
-                    <h1 class="display-4" style="font-weight:bold;">Comidas Tipicas</h1>
-                
-                    
+                    <h1 class="display-4" style="font-weight:bold; color:black; ">Comidas Tipicas</h1>
+                     
+
                 </header>
             </div>
+
+                   @* <div style="width:40%; display:flex; align-items:center; justify-content:center; animation-delay:400ms" >*@
+                       <div class="container-fluid" style="width:40%; display:flex; align-items:center; justify-content:center; animation-delay:400ms">
+  <div class="col d-flex justify-content-center">
+     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active img-fluid">
+          <img src="/css/cocada.jpg" class="d-block w-100" alt="cocadinhaBoa">
+        </div>
+        <div class="carousel-item img-fluid">
+          <img src="/css/canjica.jpg" class="d-block w-100" alt="canjiquinha">
+        </div>
+        <div class="carousel-item img-fluid">
+          <img src="/css/mungunzá.jpg" class="d-block w-100" alt="muzuzá">
+        </div>
+        <div class="carousel-item img-fluid">
+          <img src="/css/arroz_doce.jpg" class="d-block w-100" alt="docearroz">
+        </div>
+        <div class="carousel-item img-fluid">
+          <img src="/css/queijadinha.jpg" class="d-block w-100" alt="jajadinha">
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+                    </div>
+  </div>
+</div>
+
+                         
+
         </section>
 
-
-        <section class="pb-5" style=" display: flex;
-  justify-content: center;
-  align-items: center;">
+        <section class="pb-5" style=" display: flex;justify-content: center;align-items: center;">
             <div class="container text-center">
+
                 <!-- Masonry grid -->
-                <div class="gallery-wrapper" style="
-   align-items: center;" >
+                <div class="gallery-wrapper" style=" align-items: center;" >
                     <!-- Grid sizer -->
-                <div class="si" style="display: flex; justify-content:center;">
-                <div id="carouselExampleRide" class="carousel slide py-3 car" data-bs-ride="true">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img src="/css/agua-de-coco-beneficios.jpg" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="/css/image_processing20210312-29999-hg2dr3.jpeg" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="/css/MODELO_DE_FOTO_PARA_O_SOU_BH_Prancheta_1_cópia_4.png" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="/css/MODELO_DE_FOTO_PARA_O_SOU_BH_Prancheta_1_cópia_4.png" class="d-block w-100" alt="...">
-                        </div>
-                    </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleRide" data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleRide" data-bs-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
-                    </button>
-                </div>
-                </div>
+
+                 
                     <!-- Grid item -->
 
                 <div class="si" style="display: flex; justify-content:center;">
                     <div class=" grid-item mb-4 vapo" style=" background-color:white; box-shadow: 4.0px 8.0px 8.0px hsl(0deg 0% 0% / 0.2); border-radius:1%;  padding: 1rem 1rem;">
                         <div>
-                            <h2 class="h4" style="font-weight:bold; text-align: left;">1. Doce de Leite</h2>
+                            <h2 class="h4" style="font-weight:bold; text-align: left;">1. Cocada</h2>
                         </div>
-                        <img class="imagem img-fluid w-60 mb-3 img-thumbnail shadow-sm rounded-0" src="https://bootstrapious.com/i/snippets/sn-masonry/grid-item-1.png" alt="" style="border-radius:inherit%;">
+                        <img class="imagem img-fluid w-60 mb-3 img-thumbnail shadow-sm rounded-0" src="/css/cocada.jpg" alt="" style="border-radius:inherit%;">
 
 
                         <div style="text-align: left;">
                             <p class="font-italic mb-2">
-                                Se doce de leite já é bom, imagina com coco! Você vai precisar de coco fresco ralado, leite, margarina, canela e açúcar. Perfeito para acompanhar outras sobremesas ou ser a sobremesa principal.
+                                A cocada é um dos doces brasileiros mais tradicionais, seja cremosa, de corte, de forno, branca, marrom ou qualquer outra variação, é difícil encontrar alguém que resista ao seu sabor marcante. 
                             </p>
                             <p class="font-italic">
-                                É um dos doces mais gostosos, pois une o doce de leite com os pedacinhos deliciosos do coco.
+                                Acredita-se que ela tenha surgido em meados do século XVIII, na Bahia, através dos escravos africanos trazidos para cá. O doce era preparado pelas escravas para ser consumido pelos próprios escravos durante à noite, quando se reuniam para dançar, como uma maneira de esquecer o sofrimento por alguns momentos. O coco era ralado e acrescentado a grandes tachos com a calda que, inicialmente, era feita com açúcar mascavo – por isso eram mais escuras.
+                        </div>
+                    </div>
+                </div>
+
+                  <div class="si" style="display: flex; justify-content:center;">
+                    <div class=" grid-item mb-4 vapo" style=" background-color:white; box-shadow: 4.0px 8.0px 8.0px hsl(0deg 0% 0% / 0.2); border-radius:1%;  padding: 1rem 1rem;">
+                        <div>
+                            <h2 class="h4" style="font-weight:bold; text-align: left;">2. Mungunzá </h2>
+                        </div>
+                        <img class="imagem img-fluid w-60 mb-3 img-thumbnail shadow-sm rounded-0" src="/css/mungunzá.jpg" alt="" style="border-radius:inherit%;">
+
+
+                        <div style="text-align: left;">
+                            <p class="font-italic mb-2">
+                                 Corá, jimbelê, curau e mungunzá. É assim as outras definições no dicionário para um dos clássicos das comidas juninas feita de milho branco cozido com leite e açúcar.
+                            </p>
+                            <p class="font-italic">
+                               Muitas histórias envolvem a origem do prato, que para alguns vem dos Tupinambás, para outros da África ou ainda da Índia. A mais verossímil, no entanto, é que é uma iguaria afro-brasileira.
+                            </p>
+                            <p class="font-italic">
+                             No Brasil, o saber culinário africano ganhou o uso de ingredientes brasileiros como o leite de coco e toques de especiarias indianas (cravo e canela) muito utilizadas na doçaria portuguesa. Com o passar dos anos, as receitas ganharam outras versões com a utilização de leite condensado, coco ralado e amendoim.
                             </p>
                         </div>
                     </div>
@@ -83,17 +114,17 @@
                   <div class="si" style="display: flex; justify-content:center;">
                     <div class=" grid-item mb-4 vapo" style=" background-color:white; box-shadow: 4.0px 8.0px 8.0px hsl(0deg 0% 0% / 0.2); border-radius:1%;  padding: 1rem 1rem;">
                         <div>
-                            <h2 class="h4" style="font-weight:bold; text-align: left;">1. Doce de Leite</h2>
+                            <h2 class="h4" style="font-weight:bold; text-align: left;">3. Queijadinha</h2>
                         </div>
-                        <img class="imagem img-fluid w-60 mb-3 img-thumbnail shadow-sm rounded-0" src="https://bootstrapious.com/i/snippets/sn-masonry/grid-item-1.png" alt="" style="border-radius:inherit%;">
+                        <img class="imagem img-fluid w-60 mb-3 img-thumbnail shadow-sm rounded-0" src="/css/queijadinha.jpg" alt="" style="border-radius:inherit%;">
 
 
                         <div style="text-align: left;">
                             <p class="font-italic mb-2">
-                                Se doce de leite já é bom, imagina com coco! Você vai precisar de coco fresco ralado, leite, margarina, canela e açúcar. Perfeito para acompanhar outras sobremesas ou ser a sobremesa principal.
+                               O célebre doce se chama assim porque a receita original portuguesa levava queijo ao invés de coco. Essa iguaria, cuja receita foi trazida pelos portugueses, mas adaptada à realidade do novo mundo pelos escravos, foi alçada a Patrimônio Cultural Imaterial de Sergipe por meio de um decreto, em 2011. Isso porque a produção do doce – feito com farinha de trigo, açúcar, manteiga, leite e doce de coco – é tradição bicentenária na cidade de São Cristóvão.
                             </p>
                             <p class="font-italic">
-                                É um dos doces mais gostosos, pois une o doce de leite com os pedacinhos deliciosos do coco.
+                               
                             </p>
                         </div>
                     </div>
@@ -102,36 +133,19 @@
                   <div class="si" style="display: flex; justify-content:center;">
                     <div class=" grid-item mb-4 vapo" style=" background-color:white; box-shadow: 4.0px 8.0px 8.0px hsl(0deg 0% 0% / 0.2); border-radius:1%;  padding: 1rem 1rem;">
                         <div>
-                            <h2 class="h4" style="font-weight:bold; text-align: left;">1. Doce de Leite</h2>
+                            <h2 class="h4" style="font-weight:bold; text-align: left;">4. Arroz doce</h2>
                         </div>
-                        <img class="imagem img-fluid w-60 mb-3 img-thumbnail shadow-sm rounded-0" src="https://bootstrapious.com/i/snippets/sn-masonry/grid-item-1.png" alt="" style="border-radius:inherit%;">
+                        <img class="imagem img-fluid w-60 mb-3 img-thumbnail shadow-sm rounded-0" src="/css/arroz_doce.jpg" alt="" style="border-radius:inherit%;">
 
 
                         <div style="text-align: left;">
                             <p class="font-italic mb-2">
-                                Se doce de leite já é bom, imagina com coco! Você vai precisar de coco fresco ralado, leite, margarina, canela e açúcar. Perfeito para acompanhar outras sobremesas ou ser a sobremesa principal.
+
+O arroz doce é uma receita de origem asiática. Na Índia, por exemplo, é comum encontrar arroz com açúcar em preparações de pratos típicos dos casamentos hindus. Na Tailândia, ele leva coco e é servido com fatias de manga e pouquíssimo açúcar.
                             </p>
                             <p class="font-italic">
-                                É um dos doces mais gostosos, pois une o doce de leite com os pedacinhos deliciosos do coco.
-                            </p>
-                        </div>
-                    </div>
-                </div>
+                                arroz doce acabou chegando à Europa por volta do século XIII. Depois, aportou em terras brasileiras via Portugal. Aqui ele chegou polvilhado com canela. Na época do Império, no Rio de Janeiro, as pessoas ricas, a maioria de origem portuguesa, faziam vários pratos da terrinha e uma de suas sobremesas preferidas era justamente o arroz doce. No Brasil, o arroz doce adquiriu ainda outras variações, como o uso do leite condensado, que lhe conferiu mais sabor e doçura e também o uso do doce de leite.
 
-                  <div class="si" style="display: flex; justify-content:center;">
-                    <div class=" grid-item mb-4 vapo" style=" background-color:white; box-shadow: 4.0px 8.0px 8.0px hsl(0deg 0% 0% / 0.2); border-radius:1%;  padding: 1rem 1rem;">
-                        <div>
-                            <h2 class="h4" style="font-weight:bold; text-align: left;">1. Doce de Leite</h2>
-                        </div>
-                        <img class="imagem img-fluid w-60 mb-3 img-thumbnail shadow-sm rounded-0" src="https://bootstrapious.com/i/snippets/sn-masonry/grid-item-1.png" alt="" style="border-radius:inherit%;">
-
-
-                        <div style="text-align: left;">
-                            <p class="font-italic mb-2">
-                                Se doce de leite já é bom, imagina com coco! Você vai precisar de coco fresco ralado, leite, margarina, canela e açúcar. Perfeito para acompanhar outras sobremesas ou ser a sobremesa principal.
-                            </p>
-                            <p class="font-italic">
-                                É um dos doces mais gostosos, pois une o doce de leite com os pedacinhos deliciosos do coco.
                             </p>
                         </div>
                     </div>
@@ -140,30 +154,32 @@
                 <div class="si" style="display: flex; justify-content:center;">
                     <div class=" grid-item mb-4 vapo" style=" background-color:white; box-shadow: 4.0px 8.0px 8.0px hsl(0deg 0% 0% / 0.2); border-radius:1%;  padding: 1rem 1rem;">
                         <div>
-                            <h2 class="h4" style="font-weight:bold; text-align: left;">1. Doce de Leite</h2>
+                            <h2 class="h4" style="font-weight:bold; text-align: left;">5. Canjica</h2>
                         </div>
-                        <img class="imagem img-fluid w-60 mb-3 img-thumbnail shadow-sm rounded-0" src="https://bootstrapious.com/i/snippets/sn-masonry/grid-item-1.png" alt="" style="border-radius:inherit%;">
+                        <img class="imagem img-fluid w-60 mb-3 img-thumbnail shadow-sm rounded-0" src="/css/canjica.jpg" alt="" style="border-radius:inherit%;">
 
 
                         <div style="text-align: left;">
                             <p class="font-italic mb-2">
-                                Se doce de leite já é bom, imagina com coco! Você vai precisar de coco fresco ralado, leite, margarina, canela e açúcar. Perfeito para acompanhar outras sobremesas ou ser a sobremesa principal.
+                          Muitas histórias envolvem a origem da canjica e o seu próprio nome sugere 3 possíveis derivações que vem dos Tupinambás, da Índia e da África.
+                          Dessas histórias, a mais aceita pelos especialistas é relacionada a chegada da canjica no período colonial pelos africanos escravizados no Brasil.  
                             </p>
                             <p class="font-italic">
-                                É um dos doces mais gostosos, pois une o doce de leite com os pedacinhos deliciosos do coco.
+                                Chamada de “kanzika” nessa época era um tipo de papa de milho bem tradicional de várias regiões da África e muito consumida no Brasil nas senzalas.
+                                Com o passar do tempo ela ganhou vários ingredientes como o amendoim, leite de coco, canela, cravo e se transformou nessa delícia de hoje.
                             </p>
                         </div>
                     </div>
                 </div>
-                   
+
                 </div>
             </div>
         </section>
 
-    
-   
+
+
 
     <!-- Resources-->
-    
-   
+
+
 </body>

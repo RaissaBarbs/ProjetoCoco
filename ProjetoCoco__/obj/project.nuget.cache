@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rcOjjqiTmONNNJP0MSNiB4hyIlzzfHVYJTq9W6+dSIcvBlpF4iDBP8GzplmXHEHI4nq2+aA5dkKBeh7D/nlNfA==",
+  "dgSpecHash": "2ZbDWSkVQWFHhIKoeHSQuC7QI1kcVTywswWZTraNin9uXVw17ClC3oxKxAbbpd7xm9I8MRebMszpqaB9GB1IkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nanny\\OneDrive\\Documentos\\Projeto\\ProjetoCoco__\\ProjetoCoco__.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\nanny\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
-    "C:\\Users\\nanny\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
-    "C:\\Users\\nanny\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
-    "C:\\Users\\nanny\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\souae\\OneDrive\\Documentos\\Raissa Git hub\\ProjetoCoco\\ProjetoCoco__\\ProjetoCoco__.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
